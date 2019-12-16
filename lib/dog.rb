@@ -1,9 +1,3 @@
-class Person
-  def initialize(person_name)
-    @name = person_name
-  end
-end
-
 class Dog
   def initialize(dogs_name)
     @name = dogs_name
